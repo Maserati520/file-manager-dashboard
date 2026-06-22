@@ -4,7 +4,8 @@ A pixel-accurate React clone of the Hope UI Pro Admin Dashboard (File Manager �
 
 🔗 Links
 
-GitHubyour repo URL hereLive Demoyour Vercel / Netlify URL here
+GitHub: https://github.com/Maserati520/file-manager-dashboard
+Live Demo: https://file-manager-dashboard.vercel.app/
 
 🛠 Tech Stack
 
